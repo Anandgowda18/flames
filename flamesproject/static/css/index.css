@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+body { 
+    background: url("images/first.jpeg");
+  }
+
+body{
+    background: url("/static/imags/first.jpg") 50% 0 no-repeat fixed;
+    height: 650px;
+    padding: 100px 0 0 0;   
+    }
